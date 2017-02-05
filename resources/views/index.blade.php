@@ -66,7 +66,7 @@ a
         <table id="ranktable" class="ui selectable celled table" width="100%" cellspacing="0">
             <thead>
             <tr>
-                <th>Rank</th>
+                <th>Rank TEST POUR VOIR SI CA MARCHE</th>
                 <th>Flag</th>
                 <th>Name</th>
                 <th>MC</th>
